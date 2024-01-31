@@ -16,3 +16,7 @@
 10. [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.sql)
 11. [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
 12. [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+
+    
+### Lv3.
+1. [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EB%8F%84%EC%84%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89%20%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0.sql)
