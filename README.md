@@ -16,7 +16,12 @@
 10. [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.sql)
 11. [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
 12. [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+13. [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1).sql)
+14. [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%ED%8A%B9%EC%A0%95%20%EC%98%B5%EC%85%98%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+15. [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%83%81%ED%92%88%20%EB%B3%84%20%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%20%EB%A7%A4%EC%B6%9C%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
-    
+<br/>
+
 ### Lv3.
 1. [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EB%8F%84%EC%84%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89%20%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0.sql)
+2. [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(1).sql)
