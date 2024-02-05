@@ -23,6 +23,7 @@
 17. [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EC%B4%9D%20%EC%A3%BC%EB%AC%B8%EB%9F%89.sql)
 18. [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.sql)
 19. [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/3%EC%9B%94%EC%97%90%20%ED%83%9C%EC%96%B4%EB%82%9C%20%EC%97%AC%EC%84%B1%20%ED%9A%8C%EC%9B%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+20. [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv2/%EA%B0%80%EA%B2%A9%EB%8C%80%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 <br/>
 
@@ -33,8 +34,11 @@
 4. [조건별로 분류하여 주문상태 출력하기]() - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C%20%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC%20%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 5. [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(2).sql)
 6. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%B4%9D%20%EA%B1%B0%EB%9E%98%EA%B8%88%EC%95%A1%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+7. [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv3/%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 <br/>
 
 ### Lv4.
 1. [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv4/%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%20%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%20%EB%8F%99%EB%AC%BC.sql)
+2. [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv4/%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84%20%EA%B0%80%EC%9E%A5%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+3. [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) - [풀이](https://github.com/je-s0n/coding-test-rdbms/blob/main/programmers/Lv4/5%EC%9B%94%20%EC%8B%9D%ED%92%88%EB%93%A4%EC%9D%98%20%EC%B4%9D%EB%A7%A4%EC%B6%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
